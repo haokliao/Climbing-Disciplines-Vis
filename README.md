@@ -19,7 +19,9 @@ For setup, run CLIMBING.ipynb locally through a Jupyter notebook with the three 
 
 ## Technologies
 Jupyter Notebook - Used to display and run the heatmaps
+
 Ipywidgets - Interactive display, containing the different heatmaps for bouldering, toprope and lead through an accordian style widget.
+
 Seaborn is a **required** library to be able to run this project, as it was the main library used and responsible for the heatmaps.
 
 ## Credits 
