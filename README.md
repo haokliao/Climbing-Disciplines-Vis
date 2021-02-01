@@ -1,5 +1,5 @@
 # Climbing-Disciplines - Data Vis Project
-![](images/bouldering_img.png)
+![](images/bouldering_img_1.png)
 
 ## Table of Contents 
 * [General Info and Setup](#general-info-and-setup)
