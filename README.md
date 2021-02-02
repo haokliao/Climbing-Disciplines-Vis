@@ -30,8 +30,9 @@ Ipywidgets - Interactive display, containing the different heatmaps for boulderi
 Seaborn is a **required** library to be able to run this project, as it was the main library used and responsible for the heatmaps.
 
 ## To-do
-* Consolidate the seperate functions (bouldering, toprope, leadclimb)
-* Consolidate CSV files to a singular (dataframe?dictionary?)
+- [ ] Consolidate the seperate functions (bouldering, toprope, leadclimb)
+
+- [ ] Consolidate CSV files to a singular (dataframe?dictionary?)
 
 
 ## Credits 
