@@ -29,6 +29,12 @@ To create a new `requirements.txt` file, you can simply run
 poetry export -f requirements.txt --output requirements.txt --without-hashes
 ```
 
+Running the `CLIMBING.ipynb` notebook is then just as easy as
+```sh
+poetry run jupyter lab CLIMBING.ipynb
+```
+
+
 ## Technologies
 Jupyter Notebook - Used to display and run the heatmaps
 
