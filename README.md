@@ -34,12 +34,5 @@ Seaborn is a **required library to be able to run this project**, as it was the 
 - [ ] Create poetry project for simpler installation
 - [ ] Consolidate CSV files to a singular (dataframe?dictionary?)
 
-
-## To-do
-- [ ] Consolidate the seperate functions (bouldering, toprope, leadclimb)
-
-- [ ] Consolidate CSV files to a singular (dataframe?dictionary?)
-
-
 ## Credits 
 Big big shoutout to @bhernandev for helping me with working through the ipywidgets documentation, and for [Schubert's](https://www.kaggle.com/spitfire2nd/enthusiast-to-data-professional-what-changes) kaggle notebook, which really inspired me to get my hands dirty with some data visualization and try my hand at an interactive heatmap. 
