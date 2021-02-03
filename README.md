@@ -27,7 +27,13 @@ Jupyter Notebook - Used to display and run the heatmaps
 
 Ipywidgets - Interactive display, containing the different heatmaps for bouldering, toprope and lead through an accordian style widget.
 
-Seaborn is a **required** library to be able to run this project, as it was the main library used and responsible for the heatmaps.
+Seaborn is a **required library to be able to run this project**, as it was the main library used and responsible for the heatmaps.
+
+## To-do
+- [x] Consolidate the seperate functions (bouldering, toprope, leadclimb)
+- [ ] Create poetry project for simpler installation
+- [ ] Consolidate CSV files to a singular (dataframe?dictionary?)
+
 
 ## To-do
 - [ ] Consolidate the seperate functions (bouldering, toprope, leadclimb)
