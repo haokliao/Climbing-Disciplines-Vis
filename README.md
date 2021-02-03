@@ -17,8 +17,16 @@ The data I was working with was obtained through crowd sourcing my data, primari
 This chart showcases a very brief relationship between years climbing and grades in three different climbing disciplines (bouldering,top rope, and lead climbing) from a n=25, of climbers. 
 
 _For setup, run CLIMBING.ipynb locally through a Jupyter notebook with the three CSV files and Seaborn installed_
+To simplify the local installation, download [`poetry`](https://python-poetry.org/docs/#installation) and run 
 ```sh
-pip install seaborn
+poetry install
+```
+in this folder.
+The command above will setup a virtual environment with all the python dependencies you need to run the notebook (for this to work you need `python` v3.8 or higher in your system).
+
+To create a new `requirements.txt` file, you can simply run
+```sh
+poetry export -f requirements.txt --output requirements.txt --without-hashes
 ```
 
 ## Technologies
