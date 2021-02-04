@@ -7,6 +7,7 @@
 * [To-do](#to-do)
 * [Credits](#credits)
 
+
 ## General Info and Setup
 This notebook file contains the code for my first project, an interactive data visualization heatmap in Seaborn done through Jupyter Notebooks with ipywidgets.
 
@@ -44,9 +45,8 @@ Seaborn is a **required library to be able to run this project**, as it was the 
 
 ## To-do
 - [x] Consolidate the seperate functions (bouldering, toprope, leadclimb)
-
+- [ ] Create poetry project for simpler installation
 - [ ] Consolidate CSV files to a singular (dataframe?dictionary?)
-
 
 ## Credits 
 Big big shoutout to @bhernandev for helping me with working through the ipywidgets documentation, and for [Schubert's](https://www.kaggle.com/spitfire2nd/enthusiast-to-data-professional-what-changes) kaggle notebook, which really inspired me to get my hands dirty with some data visualization and try my hand at an interactive heatmap. 
