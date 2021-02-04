@@ -45,7 +45,7 @@ Seaborn is a **required library to be able to run this project**, as it was the 
 
 ## To-do
 - [x] Consolidate the seperate functions (bouldering, toprope, leadclimb)
-- [ ] Create poetry project for simpler installation
+- [x] Create poetry project for simpler installation
 - [ ] Consolidate CSV files to a singular (dataframe?dictionary?)
 
 ## Credits 
